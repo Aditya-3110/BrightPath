@@ -1,0 +1,19 @@
+{
+  "name": "ai-generated-impact-website",
+  "version": "1.0.0",
+  "description": "A complete AI-inspired website running on a dependency-free Node.js server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "website",
+    "ai-generated"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
