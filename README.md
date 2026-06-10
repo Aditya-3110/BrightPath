@@ -1,36 +1,39 @@
-# BrightPath Learning Studio Website
+# BrightPath Learning Studio
 
-This is a complete AI-generated website project built using HTML, CSS, and a Node.js server.
+A responsive educational startup website developed using HTML, CSS, and Node.js. The project showcases a modern landing page for a fictional learning platform, demonstrating clean UI design, responsive layouts, and web deployment.
 
-## Project Objective
+## Live Demo
 
-The objective of this project is to explore AI-powered website creation and understand how AI tools can help generate practical real-world website structures.
+https://brighttpath.netlify.app/
 
-## Website Domain
+## Overview
 
-Education / Startup
+BrightPath Learning Studio is a fictional EdTech platform designed to help students learn industry-relevant skills through structured programs, expert mentorship, and interactive learning experiences.
 
-The website is based on a fictional education startup called BrightPath Learning Studio.
+## Features
 
-## Website Sections
-
-- Homepage
-- About Us
-- Services
-- Featured Programs
-- Statistics Section
-- Contact Page
+- Responsive and mobile-friendly design
+- Modern landing page UI
+- Sticky navigation bar
+- Hero section with call-to-action buttons
+- About Us section
+- Services section
+- Featured Programs section
+- Statistics section
+- Contact section
+- Lightweight Node.js server for local development
 
 ## Technologies Used
 
 - HTML5
 - CSS3
+- JavaScript
 - Node.js
 
 ## Project Structure
 
 ```text
-New project/
+BrightPath/
 ├── public/
 │   ├── index.html
 │   └── styles.css
@@ -39,43 +42,46 @@ New project/
 └── README.md
 ```
 
-## How to Run
+## Getting Started
 
-Open the project folder in terminal and run:
+### Clone the Repository
+
+```bash
+git clone https://github.com/Aditya-3110/BrightPath.git
+cd BrightPath
+```
+
+### Run Locally
 
 ```bash
 node server.js
 ```
 
-Then open this URL in your browser:
+Then open:
 
 ```text
 http://127.0.0.1:3000
 ```
 
-If port 3000 is already busy, the server will automatically try the next port, such as:
+If port 3000 is unavailable, the server will automatically use the next available port.
 
-```text
-http://127.0.0.1:3001
-```
+## Learning Outcomes
 
-## Features
+This project helped in understanding:
 
-- Responsive modern website design
-- Sticky navigation bar
-- Hero section with call-to-action buttons
-- About section
-- Services cards
-- Additional featured programs section
-- Contact form layout
-- Node.js local server
-- No Python used
-- No external backend framework required
-
-## AI Tool Usage
-
-This website was generated with the help of an AI coding assistant. The AI was used to create the idea, structure, HTML layout, CSS styling, and Node.js server setup.
+- Website structure and layout design
+- Responsive web development
+- HTML and CSS best practices
+- Local server creation using Node.js
+- Website deployment using Netlify
+- Git and GitHub workflow
 
 ## Author
 
-Created for an AI-powered website generation project.
+**Aditya Kumar Gupta**
+
+B.Tech in Computer Science Engineering  
+Jaypee Institute of Information Technology, Noida
+
+- GitHub: https://github.com/Aditya-3110
+- LinkedIn: Add your LinkedIn profile link here
